@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@types/gapi": "^0.0.43",
+    "@types/google-one-tap": "^1.2.2",
     "@types/node": "18.7.20",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
